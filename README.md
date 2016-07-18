@@ -2,7 +2,7 @@
 
 > You keep using that word. I do not think it means what you think it means — Inigo Montoya, The Princess Bride
 
-I see this word everywhere. It's a plague. I don't know what's going through the minds of people who ~utilize~ use it. I can't [make the world a better place](https://www.youtube.com/watch?v=IXuFrtmOYKg), but I *can* hide the problem.
+I see this word everywhere. It's a plague. I don't know what's going through the minds of people who ~~utilize~~ use it. I can't [make the world a better place](https://www.youtube.com/watch?v=IXuFrtmOYKg), but I *can* hide the problem.
 
 ## Known issues
 
